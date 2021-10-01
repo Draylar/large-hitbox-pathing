@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "draylar.lhp.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "PathMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
